@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/headers/monstercat/LQnX59nHBsOV.gif)](https://shivdatt23.io)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)](https://shivdatt23.io)
 <h1 align="center">Hi 👋, I'm shivdatt</h1>
 <h3 align="center">passionate backend developer</h3>
 
