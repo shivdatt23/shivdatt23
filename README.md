@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **java development**
 
-- 🤝 I’m looking for help with **java,spring,python,react**
+- 🤝 I’m looking for help with **java,spring**
 
 - 💬 Ask me about **java,spring,pytho,c,MySQL,html,css,servlet,jsp,jdbc**
 
