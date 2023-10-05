@@ -1,20 +1,20 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)](https://shivdatt23.io)
 <h1 align="center">Hi 👋, I'm shivdatt</h1>
-<h3 align="center">passionate backend developer</h3>
+<h3 align="center">passionate Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivdatt23&label=Profile%20views&color=0e75b6&style=flat" alt="shivdatt23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bibharshivdatt" target="blank"><img src="https://img.shields.io/twitter/follow/bibharshivdatt?logo=twitter&style=for-the-badge" alt="bibharshivdatt" /></a> </p>
 
-- 🔭 I’m currently working on [login form](https://github.com/shivdatt23/MiniProject-using-JSP)
+- 🔭 I’m currently working on [BookBank App](https://github.com/shivdatt23/BookBank)
 
-- 🌱 I’m currently learning **spring**
+- 🌱 I’m currently learning **spring framework**
 
 - 👯 I’m looking to collaborate on **java development**
 
-- 🤝 I’m looking for help with **java,spring**
+- 🤝 I’m looking for help with **java,spring,springboot,hibernate,mySQL,**
 
-- 💬 Ask me about **java,spring,pytho,c,MySQL,html,css,servlet,jsp,jdbc**
+- 💬 Ask me about **java,spring,MySQL,html,css,servlet,JSP,JDBC**
 
 - 📫 How to reach me **shivdattbibhar23@gmail.com**
 
