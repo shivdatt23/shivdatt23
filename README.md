@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/bibharshivdatt" target="blank"><img src="https://img.shields.io/twitter/follow/bibharshivdatt?logo=twitter&style=for-the-badge" alt="bibharshivdatt" /></a> </p>
 
-- 🔭 I’m currently working on [BookBank App](https://github.com/shivdatt23/BookBank)
+- 🔭 I’m currently working on [Microservices](https://github.com/shivdatt23/microservices-demo)
 
-- 🌱 I’m currently learning **spring framework**
+- 🌱 I’m currently learning **Microservices**
 
-- 👯 I’m looking to collaborate on **java development**
+- 👯 I’m looking to collaborate on **Java Development**
 
-- 🤝 I’m looking for help with **java,spring,springboot,hibernate,mySQL,**
+- 🤝 I’m looking for help with **Java,Spring MVC, Springboot, Hibernate, MySQL, REST API, Microservices**
 
-- 💬 Ask me about **java,spring,MySQL,html,css,servlet,JSP,JDBC**
+- 💬 Ask me about **Java,Springboot, REST API, Microservices, MySQL, HTML, CSS, Javascript**
 
 - 📫 How to reach me **shivdattbibhar23@gmail.com**
 
