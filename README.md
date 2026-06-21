@@ -18,7 +18,7 @@ Building scalable backend applications with Java, Spring Boot, Microservices, an
 # 👨‍💻 About Me
 
 - 💼 Java Backend Developer with **2 years of experience**
-- 🚀 Experienced in **Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, REST APIs, MySQL, and Microservices**
+- 🚀 Experienced in **Java, Spring Boot, Spring Security, Hibernate, JPA, REST APIs, MySQL, and Microservices**
 - 🤖 Building AI-powered applications using **Spring AI**, **Ollama**, and **Llama 3**
 - ☁️ Familiar with **Docker**, **Kubernetes**, and **AWS**
 - 📚 Currently learning **Apache Kafka**, **Redis**, **Spring Cloud**, **System Design**, and **Distributed Systems**
@@ -55,7 +55,7 @@ An AI-powered business analytics platform built with **Spring Boot**, **Spring A
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css"/>
 </p>
 
 ---
@@ -174,7 +174,7 @@ Redis • Apache Kafka • Spring Cloud • System Design • Distributed System
 
 <p align="center">
 
-<a href="mailto:shivdattbibhar23@gmail.com">
+<a href="mailto:shivdattbibhar007@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -184,10 +184,6 @@ Redis • Apache Kafka • Spring Cloud • System Design • Distributed System
 
 <a href="https://linkedin.com/in/shivdatt-bibhar">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://twitter.com/bibharshivdatt">
-<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 <a href="https://leetcode.com/the_coder19">
