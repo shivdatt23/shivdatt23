@@ -1,56 +1,211 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif)](https://shivdatt23.io)
-<h1 align="center">Hi 👋, I'm shivdatt</h1>
-<h3 align="center">passionate Java developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivdatt23&label=Profile%20views&color=0e75b6&style=flat" alt="shivdatt23" /> </p>
+# Hi 👋, I'm Shivdatt Bibhar
 
-<p align="left"> <a href="https://twitter.com/bibharshivdatt" target="blank"><img src="https://img.shields.io/twitter/follow/bibharshivdatt?logo=twitter&style=for-the-badge" alt="bibharshivdatt" /></a> </p>
+### Java Backend Developer • Spring Boot • Microservices • AI Engineering
 
-- 🔭 I’m currently working on [Microservices](https://github.com/shivdatt23/eRetailApp)
+Building scalable backend applications with Java, Spring Boot, Microservices, and AI-powered solutions using modern cloud-native technologies.
 
-- 🌱 I’m currently learning **Microservices**
-
-- 👯 I’m looking to collaborate on **Java Development**
-
-- 🤝 I’m looking for help with **Java,Spring MVC, Springboot, Hibernate, MySQL, REST API, Microservices**
-
-- 💬 Ask me about **Java,Springboot, REST API, Microservices, MySQL, HTML, CSS, Javascript**
-
-- 📫 How to reach me **shivdattbibhar23@gmail.com**
-
-- ⚡ Fun fact **my typing is faster than jet🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bibharshivdatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bibharshivdatt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivdatt bibhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivdatt bibhar" height="30" width="40" /></a>
-<a href="https://fb.com/shivdatt bibhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivdatt bibhar" height="30" width="40" /></a>
-<a href="https://instagram.com/v4.venom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v4.venom" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shivdattbibhar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivdattbibhar23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/the_coder19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the_coder19" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shivdattbibhar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivdattbibhar23" height="30" width="40" /></a>
+<p>
+<img src="https://komarev.com/ghpvc/?username=shivdatt23&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/shivdatt23?label=Followers&style=flat"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</div>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+---
 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- </p>
+# 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivdatt23&show_icons=true&locale=en&layout=compact" alt="shivdatt23" /></p>
+- 💼 Java Backend Developer with **2 years of experience**
+- 🚀 Experienced in **Java, Spring Boot, Spring MVC, Spring Security, Hibernate, JPA, REST APIs, MySQL, and Microservices**
+- 🤖 Building AI-powered applications using **Spring AI**, **Ollama**, and **Llama 3**
+- ☁️ Familiar with **Docker**, **Kubernetes**, and **AWS**
+- 📚 Currently learning **Apache Kafka**, **Redis**, **Spring Cloud**, **System Design**, and **Distributed Systems**
+- 💡 Passionate about Backend Engineering, Cloud Computing, Clean Architecture, and AI Integration
+- 🌱 Always learning new technologies and building production-ready applications
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivdatt23&show_icons=true&locale=en" alt="shivdatt23" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivdatt23&" alt="shivdatt23" /></p>
+# 🚀 Featured Project
+
+## 🤖 AI Car Sales Analytics Platform
+
+An AI-powered business analytics platform built with **Spring Boot**, **Spring AI**, and **Llama 3** that transforms raw sales data into actionable business insights.
+
+### ✨ Features
+
+- 🤖 AI Business Assistant
+- 📊 Interactive Analytics Dashboard
+- 📈 Year-wise & Month-wise Sales Analytics
+- 📂 CSV Upload & Processing
+- 💬 Natural Language Business Queries
+- 📉 Business KPI Visualization
+- ⚡ RESTful API Architecture
+- 📱 Responsive React Frontend
+
+### ⚙️ Tech Stack
+
+`Java 21` • `Spring Boot` • `Spring AI` • `Ollama` • `Llama 3` • `Spring Data JPA` • `Hibernate` • `MySQL` • `React` • `Chart.js` • `Maven`
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql,maven"/>
+</p>
+
+Java • Spring Boot • Spring MVC • Spring Security • Spring Data JPA • Hibernate • REST APIs • JWT Authentication • Microservices
+
+---
+
+## 🤖 AI & LLM Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Llama_3-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,postman,idea,vscode"/>
+</p>
+
+Docker • Kubernetes • AWS • Git • GitHub • Maven • IntelliJ IDEA • VS Code • Postman
+
+---
+
+## 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=redis,kafka,kubernetes,aws"/>
+</p>
+
+Redis • Apache Kafka • Spring Cloud • System Design • Distributed Systems • Design Patterns
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivdatt23&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivdatt23&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shivdatt23&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivdatt23&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivdatt23&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📋 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivdatt23&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/shivdatt23/shivdatt23/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** The contribution snake requires a GitHub Actions workflow to generate automatically.
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:shivdattbibhar23@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/shivdatt23">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shivdatt-bibhar">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/bibharshivdatt">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://leetcode.com/the_coder19">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
+</a>
+
+<a href="https://www.hackerrank.com/@shivdattbibhar23">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="48"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 "Code. Learn. Build. Repeat."
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+</div>
