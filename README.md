@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Shivdatt Bibhar
+# Hi 👋, I'm Shivdatt
 
 ### Java Backend Developer • Spring Boot • Microservices • AI Engineering
 
